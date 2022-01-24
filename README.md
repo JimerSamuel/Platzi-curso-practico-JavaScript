@@ -17,3 +17,10 @@ Curso practico de JS, aqui voy a guardar todos los cambios del curso practico de
 - Segundo paso: Implementar las formulas en JavaScript
 - Tercer paso: Crear funciones
 - Cuarto paso: Integrar JavaScript con HTML
+
+## Taler #3: Promedio, mediana y moda
+
+- Primer paso: Definir las formas
+- Segundo paso: Implementar las formulas en JavaScript
+- Tercer paso: Crear funciones
+- Cuarto paso: Integrar JavaScript con HTML
